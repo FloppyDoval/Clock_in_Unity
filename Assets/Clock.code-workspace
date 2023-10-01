@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Library"
+		},
+		{
+			"path": "../Logs"
+		},
+		{
+			"path": "../Packages"
+		},
+		{
+			"path": "../ProjectSettings"
+		},
+		{
+			"path": "../Temp"
+		},
+		{
+			"path": "../UserSettings"
+		}
+	]
+}
